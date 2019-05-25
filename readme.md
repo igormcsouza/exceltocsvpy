@@ -8,3 +8,5 @@ A função convert recebe o nome do arquivo excel e o nome do arquivo csv que se
 O arquivo excel deve está na mesma pasta.
 
 Se você não passar nada ele vai ler o arquivo test.xlsx e retorna um arquivo csvfile.csv
+
+Funciona para as versões 2.x e 3.x do Python!
