@@ -3,3 +3,5 @@ bin/
 include/
 lib/
 app/__pycache__
+js/node_modules/
+js/package-lock.json
