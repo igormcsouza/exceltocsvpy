@@ -6,3 +6,5 @@ Para usar a aplicação basta copiar a pasta app para dentro de sua própria apl
 
 A função convert recebe o nome do arquivo excel e o nome do arquivo csv que será gerado.
 O arquivo excel deve está na mesma pasta.
+
+Se você não passar nada ele vai ler o arquivo test.xlsx e retorna um arquivo csvfile.csv
